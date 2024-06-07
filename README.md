@@ -6,9 +6,6 @@ The family tree shows the lineage and relationships between various prophets and
 Clear Lineage: The edges between nodes represent familial relationships, clearly showing the lineage from Prophet Adam to Prophet Muhammad.
 ## Prerequisites
 To run this project, you need the following software installed:
-
-Python 3.x
-NetworkX
-Matplotlib
-PyGraphviz (optional, for advanced graph layout)
-Jupyter Notebook (optional, for interactive exploration)
+- Python 3.x
+- Graphviz
+- Pandas
