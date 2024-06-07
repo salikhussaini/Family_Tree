@@ -1,0 +1,168 @@
+﻿Father,Son,Father_Id,Son_Id,SKIP_GENERATION
+,Adam,0,1,1
+Adam,Sheth,1,2,1
+Sheth,Anwas,2,3,1
+Anwas,Qinan,3,4,1
+Qinan,Mahla'il,4,5,1
+Mahla'il,Yarid,5,6,1
+Yarid,Idris,6,7,1
+Idris,Matulsalkh,7,8,1
+Matulsalkh,Lamik,8,9,1
+Lamik,Nuh,9,10,1
+Nuh,Sam,10,11,1
+Nuh,Yafid,10,12,1
+Sam,Arfakhshad,11,13,1
+Sam,Iram,11,14,1
+Arfakhshad,Shalikh,13,15,1
+Iram,Ars,14,16,1
+Iram,Aush,14,17,1
+Shalikh,Abir,15,18,1
+Ars,Samud,16,19,1
+Aush,Ad,17,20,1
+Abir,Falikh,18,21,1
+Samud,Hadzir,19,22,1
+Ad,Khulud,20,23,1
+Falikh,Ra'u,21,24,1
+Hadzir,Ubayd,22,25,1
+Khulud,Raya,23,26,1
+Ra'u,Saru',24,29,
+Ubayd,Masih,25,28,1
+Raya,Abdullah,26,27,1
+Abdullah,Hud,27,32,1
+Hud,Haran,32,33,1
+Masih,Auf,28,31,1
+Saru',Nahur,29,30,
+Nahur,Azar,30,35,
+Auf,Abir,31,34,1
+Haran,Lut,33,38,1
+Abir,Shalih,34,37,1
+Azar,Ibrahim,35,36,
+Lut,Safyun,38,39,1
+Safyun,Syuib,39,46,1
+Ibrahim,Ismail,36,40,
+Ibrahim,Ishaq,36,41,
+Ibrahim,Madyan,36,42,
+Madyan,Safyun,42,39,
+Ismail,Haidir,40,45,
+Haidir,Aram,45,47,
+Ishaq,Ya'quib,41,43,
+Ishaq,Ish,41,44,
+Ish,Rum,44,48,
+Rum,Tarekh,48,56,
+Tarekh,Amose,56,59,
+Amose,Ayuub,59,67,
+Ayuub,Zulkifli,67,70,
+Ya'quib,Levi,43,49,
+Ya'quib,Bunyamin,43,50,
+Ya'quib,Yusuf,43,51,
+Ya'quib,Yahudza,43,52,
+Levi,Kohath,49,55,
+Kohath,Imran,55,60,
+Imran,Musa,60,65,
+Imran,Harun,60,66,
+Harun,Izar,66,71,
+Izar,Fahhnaz,71,74,
+Izar,Aziz,71,164,1
+Fahhnaz,Yasin,74,77,
+Fahhnaz,Ukhtub,74,78,
+Ukhtub,Alyasa',78,81,
+Yasin,Ilyas,77,82,
+Yahudza,Bares,52,53,
+Bares,Hasrun,53,62,
+Hasrun,Raum,62,63,
+Raum,Ummanizab,63,72,
+Ummanizab,Yauksaun,72,73,
+Yauksaun,Salmun,73,79,
+Salmun,Yuar,79,80,
+Yuar,Ufiz,80,85,
+Ufiz,Isya,85,86,
+Isya,Uwaid,86,89,
+Uwaid,Daud,89,90,
+Daud,Sulaiman,90,93,
+Sulaiman,Hezekiah,93,94,
+Sulaiman,Zakaria,93,95,
+Zakaria,Yahya,95,98,
+Hezekiah,Heli,94,99,
+Heli,Maryam,99,100,
+Maryam,Isa,100,103,
+Bunyamin,Abumata,50,54,
+Abumata,Matta,54,61,
+Matta,Yunus,61,64,
+Aram,Adwa,47,57,
+Adwa,Wazzi,57,58,
+Wazzi,Sami,58,68,
+Sami,Zarih,68,69,
+Zarih,Nahith,69,75,
+Nahith,Muksar,75,76,
+Muksar,Aiham,76,83,
+Aiham,Afnad,83,84,
+Afnad,Aisar,84,87,
+Aisar,Deshan,87,88,
+Deshan,Aid,88,91,
+Aid,Ar'awi,91,92,
+Ar'awi,Yalhan,92,96,
+Yalhan,Yahzin,96,97,
+Yahzin,Yathrabi,97,101,
+Yathrabi,Sanbir,101,102,
+Sanbir,Hamdan,102,106,
+Hamdan,Ad-Da'a,106,107,
+Ad-Da'a,Ubaid,107,108,
+Ubaid,Abqar,108,109,
+Abqar,Aid,109,110,
+Aid,Makhi,110,111,
+Makhi,Nahish,111,112,
+Nahish,Jahim,112,113,
+Jahim,Tabikh,113,114,
+Tabikh,Yadlaf,114,115,
+Yadlaf,Bildas,115,116,
+Bildas,Haza,116,117,
+Haza,Nashid,117,118,
+Nashid,Awwam,118,119,
+Awwam,Obai,119,120,
+Obai,Qamwal,120,121,
+Qamwal,Buz,121,122,
+Buz,Aws,122,123,
+Aws,Salaman,123,124,
+Salaman,Humaisi,124,125,
+Humaisi,add,125,126,
+add,Adnan,126,127,
+Adnan,Ma'ad,127,128,
+Ma'ad,Nizar,128,129,
+Nizar,Mudar,129,130,
+Mudar,Elias,130,131,
+Elias,Mudrikah,131,132,
+Mudrikah,Khuzaiman,132,133,
+Khuzaiman,Kinana,133,134,
+Kinana,An-Nadr,134,135,
+An-Nadr,Malik,135,136,
+Malik,Fahr,136,137,
+Fahr,Ghalib,137,138,
+Ghalib,Lo'i,138,139,
+Lo'i,Ka'b,139,140,
+Ka'b,Murra,140,142,
+Murra,Kilab,142,145,
+Kilab,Qusai,145,151,
+Qusai,Abd Munaf,151,152,
+Abd Munaf,Hashim,152,158,
+Hashim,Abdul Mutalib,158,159,
+Abdul Mutalib,Abdullah,159,161,
+Abdullah,Muhammed,161,163,
+Muhammed,,163,,
+Abdul Mutalib,Harith,159,165,
+Abdul Mutalib,Zubayr,159,166,
+Abdul Mutalib,Abu Lahab,159,167,
+Abdul Mutalib,Hamza,159,168,
+Abdul Mutalib,Abbas,159,169,
+Abdul Mutalib,Musab,159,170,
+Abdul Mutalib,Dirar,159,171,
+Abdul Mutalib,Qutham,159,172,
+Abdul Mutalib,Abdul Kaba,159,173,
+Abdul Mutalib,Al-Mughira Hajl,159,174,
+Abdul Mutalib,Abu Talib,159,160,
+Abu Talib,Talib,160,175,
+Abu Talib,Aqil,160,176,
+Abu Talib,Jafar Al-Tayyar,160,177,
+Abu Talib,Tulayq,160,178,
+Abu Talib,Ali in Abi Talib,160,162,
+Qusai,Abd al-Dar,151,179,
+Qusai,Abd al-Uzza,151,180,
