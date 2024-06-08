@@ -74,6 +74,7 @@ Person_ID,Level,Name,Phrophet,Check
 73,28,Yauksaun,,
 74,28,Fahhnaz,,
 75,28,Nahith,,
+164,28,Aziz,,
 76,29,Muksar,,
 77,29,Yasin,,
 78,29,Ukhtub,,
@@ -148,19 +149,28 @@ Person_ID,Level,Name,Phrophet,Check
 149,79,Sa'd,,
 150,79,Zuhrah,,
 151,79,Qusai,,
-152,80,Abd Munaf,,
-153,80,Abdallah,,
-154,80,Umar,,
-155,80,Ka'b,,
-156,80,Abd Manaf,,
-157,80,Abd al-Uzza,,
-158,81,Hashim,,
-159,82,Abdul Mutalib,,
-160,83,Abu Talib,,
-161,83,Abdullah,,
-162,84,Ali in Abi Talib,,
-163,84,Muhammed,1,
-164,28,Aziz,,
+152,80,Abd Manaf,,1
+153,80,Abdallah,,1
+154,80,Umar,,1
+157,80,Abd al-Uzza,,1
+179,80,Abd al-Dar,,1
+180,80,Ka'b,,1
+158,81,Hashim,,1
+181,81,As'ad,,1
+182,81,Abd Shams,,1
+183,81,Amr,,1
+184,81,Abdullah,,1
+185,81,Riyah,,1
+159,82,Abdul Mutalib,,1
+186,82,Khuwaylid,,1
+187,82,UmmHabib,,1
+188,82,Umayya,,1
+189,82,Amir,,1
+190,82,Sakhr,,1
+191,82,Mughirah,,1
+192,82,Abd al-Uzza,,1
+160,83,Abu Talib,,1
+161,83,Abdullah,,1
 165,83,Harith,,
 166,83,Zubayr,,
 167,83,Abu Lahab,,
@@ -171,9 +181,38 @@ Person_ID,Level,Name,Phrophet,Check
 172,83,Qutham,,
 173,83,Abdul Kaba,,
 174,83,Al-Mughira Hajl,,
+193,83,Awwam,,1
+194,83,Khadija,,1
+195,83,Az-Zubayr,,1
+196,83,Umm Hakim,,1
+197,83,Abdul 'As,,1
+198,83,Uthman Abu Quhafa,,1
+199,83,Salma Umm Al-khayr,,1
+200,83,Hisham,,1
+201,83,Nufayl,,1
+162,84,Ali in Abi Talib,,
+163,84,Muhammed,1,
 175,84,Talib,,
 176,84,Aqil,,
 177,84,Jafar Al-Tayyar,,
 178,84,Tulayq,,
-179,80,Abd al-Dar,,
-180,80,Abd al-Uzza,,
+202,84,Zubayr,,1
+203,84,Arwa,,1
+204,84,Affan,,1
+205,84,Abu Bakr as Siddiq,,1
+206,84,Ubayd Allah,,1
+207,84,Hantamah,,1
+208,84,Khattab,,1
+209,85,Umar,,
+210,85,Uthman,,
+211,85,Fatimah,,
+212,85,Umm Kulthum,,
+213,85,Ruqayyah,,
+214,85,Zaynab,,
+215,86,Hasan,,
+216,86,Husayn,,
+217,86,Muhsin,,
+218,86,Zaynab,,
+219,86,Umm Kulthum,,
+220,,,,
+221,,,,
